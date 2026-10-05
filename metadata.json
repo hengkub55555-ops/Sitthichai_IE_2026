@@ -1,0 +1,6 @@
+{
+  "name": "RF Production Line Manpower Calculator",
+  "description": "Industrial manufacturing manpower calculator and Excel spreadsheet analyzer for RF Production Line DL/IDL workforce planning, UPPH, and shift output simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
